@@ -11,7 +11,7 @@ $ npm install
 Navigate to project root and start running in React developer mode
 
 ```
-npm start
+$ npm start
 ```
 
 A proxy server ([link](https://github.com/rlopezlu/PokedexServer)) was used to handle all API requests, caching, and minor data formatting
@@ -23,7 +23,7 @@ $ npm install
 Navite to root of server proxy project and run in localhost:8000 
 
 ```
-npm start
+$ npm start
 ```
 
-Then open a browser and browse to [localhost:3001](localhost:3000)
+React dev tools with automatically open a tab in your default browser. If not, open a browser and navigate to [localhost:3001](localhost:3000)
